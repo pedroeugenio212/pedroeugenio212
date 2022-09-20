@@ -12,4 +12,4 @@ Iniciante nos estudos de progamação, futuramente estarei adicionando mais info
 
 ## Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' heigth='30'>](linked.com/in/pedro-eugênio-852379248/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' heigth='30'>](linked.com/in/pedro-eugênio-852379248)
