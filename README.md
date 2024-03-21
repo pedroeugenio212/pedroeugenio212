@@ -8,7 +8,6 @@ Iniciante nos estudos de progamação, futuramente estarei adicionando mais info
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroeugenio212&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
 
