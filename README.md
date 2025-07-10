@@ -3,7 +3,7 @@
 ![Contador de Perfil](https://komarev.com/ghpvc/?username=pedroeugenio212&color=green)
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor em formação, atualmente participando do bootcamp da Digital Innovation One (DIO). Estou focado em expandir minhas habilidades em desenvolvimento de software.
+Sou um desenvolvedor em formação. Estou focado em expandir minhas habilidades em desenvolvimento de software.
 
 ## 💻 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
